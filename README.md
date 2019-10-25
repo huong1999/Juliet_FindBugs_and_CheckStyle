@@ -10,3 +10,7 @@
 ![alt text]()
 
 ## Giao diện plugin CheckStyle trên Intellij IDE
+
+## Kết quả chạy tool
+- Kết quả test của công cụ FindBugs được lưu trong file findbugs.png của thư mục gốc
+- Kết quả test của công cụ CheckStyle được lưu được lưu trong file checkstyle.png của thư mục gốc
